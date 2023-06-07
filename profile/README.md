@@ -1,2 +1,2 @@
 # Smart Operating Block
-<img src="https://github.com/SmartOperatingBlock/documentation/blob/main/imgs/architecture.jpg" width="550" height="800" />
+<img src="https://raw.githubusercontent.com/SmartOperatingBlock/documentation/main/imgs/architecture.jpg" width="550" height="800" />
